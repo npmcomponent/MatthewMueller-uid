@@ -1,19 +1,12 @@
 {
-  "name": "uid",
+  "name": "matthewmueller-uid",
+  "description": "generate unique ids of any length",
   "version": "0.0.2",
-  "description": "generate unique ids of variable length",
-  "main": "yes",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/MatthewMueller/uid.git"
-  },
   "keywords": [
     "unique",
     "id",
-    "uid"
+    "generator"
   ],
-  "bin" : "./bin/uid",
-  "author": "Matthew Mueller",
-  "license": "MIT",
-  "readmeFilename": "Readme.md"
+  "dependencies": {},
+  "license": "MIT"
 }
